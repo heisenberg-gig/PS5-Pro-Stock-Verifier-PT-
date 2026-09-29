@@ -9,7 +9,7 @@ Verifica periodicamente a página da PS5 Pro em **6 lojas portuguesas** usando o
 - Rádio Popular
 - Darty (MediaMarkt)
 - GlobalData
-- PcComponentes *(página de pesquisa, avaliada produto a produto)*
+- PcComponentes
 
 Cada notificação diz de que loja veio o stock e tem um link direto para lá.
 
