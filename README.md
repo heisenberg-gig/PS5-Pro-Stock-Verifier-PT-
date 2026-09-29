@@ -1,6 +1,6 @@
 # Monitor de Stock — PlayStation 5 Pro 
 
-Verifica periodicamente a página da PS5 Pro em **6 lojas portuguesas** usando o Chrome (em segundo plano, invisível) e avisa-te assim que detetar stock em qualquer uma delas: **notificação no telemóvel (ntfy) + notificação nativa e alarme sonoro no PC**.
+Verifica periodicamente a página da PS5 Pro usando o Chrome (em segundo plano, invisível) e avisa-te assim que detetar stock em qualquer uma delas: **notificação no telemóvel (ntfy) + notificação nativa e alarme sonoro no PC**.
 
 **Principais Lojas monitorizadas:**
 
