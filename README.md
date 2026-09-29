@@ -19,7 +19,7 @@ Segue os passos pela ordem. Só precisas de **um PC com Windows**, ligado à int
 
 ### O que é isto e o que vai fazer?
 
-É um pequeno programa que **fica a espreitar sozinho** as páginas da PS5 Pro nas lojas MEO, Worten, Rádio Popular, Darty (MediaMarkt), GlobalData e PcComponentes. Assim que uma loja tiver stock, **o teu telemóvel apita** e o PC também (aviso no ecrã + som).
+É um pequeno programa que **fica a espreitar sozinho** as páginas da PS5 Pro nas principais lojas onde é mais provavel receber algumas unidades em stock, MEO, Worten, Rádio Popular, Darty (MediaMarkt), GlobalData e PcComponentes. Assim que uma loja tiver stock, **o teu telemóvel apita** e o PC também (aviso no ecrã + som).
 
 Funciona **em segundo plano**: não abre janelas, não vês nada a acontecer e podes continuar a usar o PC normalmente (ver vídeos, trabalhar, etc.). O programa só "acorda" para avisar quando há stock.
 
