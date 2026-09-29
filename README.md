@@ -1,8 +1,8 @@
-# Monitor de Stock — PlayStation 5 Pro (MEO, Worten, Rádio Popular, Darty/MediaMarkt, GlobalData, PcComponentes)
+# Monitor de Stock — PlayStation 5 Pro 
 
 Verifica periodicamente a página da PS5 Pro em **6 lojas portuguesas** usando o Chrome (em segundo plano, invisível) e avisa-te assim que detetar stock em qualquer uma delas: **notificação no telemóvel (ntfy) + notificação nativa e alarme sonoro no PC**.
 
-**Lojas monitorizadas:**
+**Principais Lojas monitorizadas:**
 
 - MEO
 - Worten *(só notifica quando for vendido e enviado pela própria Worten — ignora ofertas de revendedores/marketplace)*
