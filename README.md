@@ -15,7 +15,7 @@ Cada notificação diz de que loja veio o stock e tem um link direto para lá.
 
 ## 🟢 GUIA PARA QUEM NÃO PERCEBE NADA DE INFORMÁTICA (Windows)
 
-Segue os passos pela ordem. Não precisas de saber programar nem de instalar o Visual Studio. Só precisas de **um PC com Windows**, ligado à internet, e de **um telemóvel** para receber os avisos.
+Segue os passos pela ordem. Só precisas de **um PC com Windows**, ligado à internet, e de **um telemóvel** para receber os avisos.
 
 ### O que é isto e o que vai fazer?
 
